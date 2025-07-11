@@ -102,6 +102,12 @@
                 <h3>Crédito Pessoal e Seguros</h3>
                 <a href="https://victorxx.github.io/redionador1git/" target="_blank">Acesse agora</a>
             </div>
+
+             <div class="link-item">
+                <h3>COMECE NO AIRBNB</h3>
+                <a href="https://victorxx.github.io/airbnbrandom01/" target="_blank">Acesse agora</a>
+            </div>
+
             <div class="link-item">
                 <h3>Seguros e Consórcios</h3>
                 <a href="https://geocredibnkvitoria.com" target="_blank">Confira as ofertas</a>
